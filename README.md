@@ -9,4 +9,4 @@ In **Wine-Quality-EDA** notebook  you will find different important exploratry d
 
 Check out **Wine-Quality-svm-knn** notebook for the code and accuracy comparison.
 
-# I'll work on this now and then to make a better understanding of applying interesting data science techniques, please check back later and hope you find this work useful.
+## I'll work on this now and then to make a better understanding of applying interesting data science techniques, please check back later and hope you find this work useful.
